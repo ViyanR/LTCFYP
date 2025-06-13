@@ -4,15 +4,13 @@ This repository contains an implementation of a Liquid Time-Constant Neural Netw
 
 The implementation is based on the concept of Liquid Time-Constant Networks, which are a type of continuous-time recurrent neural network.
 
-Various adversarial attacks and robustness certification experiments have been run on the models
+Various adversarial attacks and robustness certification experiments have been run on the models.
 
 ## Getting Started
 
 ### Prerequisites
 
-To run this project, you will need run the following
-
-You can install these libraries using `pip`:
+To run this project, you will need to run the following:
 
 ```bash
 pip install -r requirements.txt
