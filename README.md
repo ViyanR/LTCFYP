@@ -1,6 +1,6 @@
 # Liquid Time-Constant LNN Implementation from scratch
 
-This repository contains a an implementation Liquid Time-Constant Neural Networks (LTC-LNNs), as well as a comparable TCN, LSTM and transformer.
+This repository contains an implementation of a Liquid Time-Constant Neural Network (LTC-LNN), as well as a comparable TCN, LSTM and Transformer Model.
 
 The implementation is based on the concept of Liquid Time-Constant Networks, which are a type of continuous-time recurrent neural network.
 
